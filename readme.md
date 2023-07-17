@@ -11,7 +11,7 @@ The objectives of the project are as follows:
 
 ## SWOT Analysis:
 
-![Alt text](images/swot_1.png)
+![Alt text](images/swotblack.png)
 
 
 ## Exploring Engine Resale prices
@@ -36,4 +36,4 @@ The objectives of the project are as follows:
 
 ## Action Plan: GUV Program
 
-![Alt text](images/guv_1.png)
+![Alt text](images/blackguv.png)
